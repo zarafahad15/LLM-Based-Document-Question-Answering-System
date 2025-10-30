@@ -1,0 +1,12 @@
+langchain
+langchain-community
+openai
+chromadb
+pypdf
+python-docx
+tiktoken
+sentence-transformers
+streamlit
+faiss-cpu
+llama-cpp-python
+
